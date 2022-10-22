@@ -1,4 +1,4 @@
-## Olá, meu nome é Jorge e sou Desenvolvedor Web Full Stack! 🖥️
+## Dev Full Stack! 🖥️
 
 <div align="center">
   <a href="https://github.com/JorgeWillianPaez">
