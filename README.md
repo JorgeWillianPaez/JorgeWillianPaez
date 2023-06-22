@@ -1,4 +1,4 @@
-## Dev Full Stack 🖥️
+## Mid Software Developer | Full Stack 🖥️
 
 <div align="center">
   <a href="https://github.com/JorgeWillianPaez">
